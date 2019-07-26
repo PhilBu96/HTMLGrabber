@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HTMLGrabber">
+    <output-path>$USER_HOME$/Desktop/HTMLGrabber</output-path>
+    <root id="archive" name="HTMLGrabber.jar">
+      <element id="module-output" name="HTMLGrabber" />
+    </root>
+  </artifact>
+</component>
